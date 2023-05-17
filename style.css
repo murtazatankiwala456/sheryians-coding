@@ -126,6 +126,7 @@ body {
   }
   #leftBottom p {
     margin: 5px 0;
+    text-align: justify;
   }
   #right {
     width: 100%;
