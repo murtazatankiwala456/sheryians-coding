@@ -118,10 +118,14 @@ body {
   }
   #left #leftBottom {
     text-align: center;
-    margin-top: 10px;
+    margin-top: 20px;
   }
+
   #left #leftBottom h1 {
     font-size: 50px;
+  }
+  #leftBottom p {
+    margin: 5px 0;
   }
   #right {
     width: 100%;
