@@ -116,6 +116,13 @@ body {
   #left {
     width: 100%;
   }
+  #left #leftBottom {
+    text-align: center;
+    margin-top: 10px;
+  }
+  #left #leftBottom h1 {
+    font-size: 50px;
+  }
   #right {
     width: 100%;
   }
